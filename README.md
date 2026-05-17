@@ -2,6 +2,9 @@
 
 **6G7V0024 Deep Learning Coursework — Manchester Metropolitan University**
 
+Link for code and zip of the dataset
+https://stummuac-my.sharepoint.com/:f:/g/personal/25886455_stu_mmu_ac_uk/IgDdETuO7KcITZWo6RuEn4_rAY3RzUZuru7Tn44rSCSwhXA?e=hKpmp3
+
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Hugging%20Face-yellow)](https://huggingface.co/spaces/devved/dafe-net-fer)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)]()
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.13%2B-orange)]()
